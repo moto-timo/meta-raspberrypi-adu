@@ -1,9 +1,9 @@
 # Introduction
 
-> **Disclaimer:** | 
-There is no guarantee or support for this project. Please modify and customize the project to fit your need, and reference this example as needed.
+> **DISCLAIMER:**  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This is an example meta layer for building SD Image for Raspberry Pi 3B+ device that enabled the following functionalities:
+This is an example meta layer used for building SD Image for Raspberry Pi 3B+ device that enabled the following functionalities:
 
 - IoT Hub Device Update Agent
   - SWUpdate and SWUpdate V2 handlers
