@@ -20,7 +20,7 @@ IMAGE_ROOTFS_EXTRA_SPACE = "262144"
 # NOTE: do not add tools-profile feature. (Causing non obvious build error)
 
 # Base image already include "splash ssh-server-openssh"
-# 
+#
 #   package-management - for 'apt' support. This requires IMAGE_INSTALL += "apt" below.
 #
 IMAGE_FEATURES += " debug-tweaks tools-debug package-management"
@@ -50,5 +50,5 @@ IMAGE_INSTALL += " \
     adu-device-info-update-files \
     adu-agent-service \
     "
-   
+
 export IMAGE_BASENAME = "adu-base-1-image"
